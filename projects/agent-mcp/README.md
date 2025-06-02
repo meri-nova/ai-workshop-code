@@ -1,6 +1,17 @@
 # Job Finder Agent
 
-An AI-powered job finder that scrapes Hacker News jobs and finds positions matching your preferences.
+This project is part of the Agent Engineering Bootcamp. 
+
+It is an AI-powered job finder that scrapes Hacker News jobs and finds positions matching your preferences.
+
+
+
+## Join 6-week [Agent Engineering Bootcamp](https://eng.framer.ai/) on June 12, 2025!
+Build real-world Agents with guidance and a structured path!
+Use code "TIER2" for $315 OFF at [the checkout](https://buy.stripe.com/9AQ29j0ZfbrH5ryfZ2)
+🚨Act now. Only 15 spots left. 🚨
+
+
 
 ## Project Structure
 
@@ -13,6 +24,7 @@ The project is organized into modular components:
 ├── logging_utils.py  # Console output and logging utilities
 └── .env             # Environment variables
 ```
+
 
 ### Files Overview
 
